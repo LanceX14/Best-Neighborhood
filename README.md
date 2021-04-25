@@ -1,11 +1,11 @@
 # Best-Neighborhood
 ## Team name: Alexa Group 4
 ## Team members names and email addresses：
-·William Chapler--WJC23@pitt.edu
+·William Chapler -- WJC23@pitt.edu
 
-·Khailil Tookas--KHT10@pitt.edu
+·Khailil Tookas -- KHT10@pitt.edu
 
-·Tian Xie--TIX22@pitt.edu
+·Tian Xie -- TIX22@pitt.edu
 
 ## Datasets
 https://data.wprdc.org/datastore/dump/76fda9d0-69be-4dd5-8108-0de7907fc5a4
